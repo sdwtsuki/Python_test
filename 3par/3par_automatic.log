@@ -1,0 +1,306 @@
+[2017-03-31 10:11:41,374]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:11:41,374]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Begin]  3parauto.py 3par list                <<<#####
+[2017-03-31 10:11:41,374]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:11:41,376]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQQSDB.SNP
+[2017-03-31 10:11:41,376]-[INFO]-[3parauto.py]-[main]: [ IB-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIBDB.SNP
+[2017-03-31 10:11:41,376]-[INFO]-[3parauto.py]-[main]: [ NDP-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQNDPDB.SNP
+[2017-03-31 10:11:41,377]-[INFO]-[3parauto.py]-[main]: [ HG-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.shsqhdb.SNP
+[2017-03-31 10:11:41,377]-[INFO]-[3parauto.py]-[main]: [ RA-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQRADB.SNP
+[2017-03-31 10:11:41,377]-[INFO]-[3parauto.py]-[main]: [ ZF-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQZFDB.SNP
+[2017-03-31 10:11:41,377]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:11:41,377]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Ended]  3parauto.py 3par list                <<<#####
+[2017-03-31 10:11:41,378]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:11:41,378]-[DEBUG]-[logger.py]-[function_timer]: Total time running [main]: 0.00413107872009 seconds
+[2017-03-31 10:14:34,606]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:14:34,606]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Begin]  3parauto.py 3par list                <<<#####
+[2017-03-31 10:14:34,606]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:14:34,610]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-SAMICA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICA.snp
+[2017-03-31 10:14:34,610]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-SAMICB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICB.snp
+[2017-03-31 10:14:34,610]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-IGA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGA.snp
+[2017-03-31 10:14:34,610]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-IGB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGB.snp
+[2017-03-31 10:14:34,610]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMS ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMS.SNP
+[2017-03-31 10:14:34,611]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMSA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSA.snp
+[2017-03-31 10:14:34,611]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMSB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSB.snp
+[2017-03-31 10:14:34,611]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQQSDB.SNP
+[2017-03-31 10:14:34,611]-[INFO]-[3parauto.py]-[main]: [ IB-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIBDB.SNP
+[2017-03-31 10:14:34,611]-[INFO]-[3parauto.py]-[main]: [ NDP-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQNDPDB.SNP
+[2017-03-31 10:14:34,612]-[INFO]-[3parauto.py]-[main]: [ HG-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.shsqhdb.SNP
+[2017-03-31 10:14:34,612]-[INFO]-[3parauto.py]-[main]: [ RA-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQRADB.SNP
+[2017-03-31 10:14:34,612]-[INFO]-[3parauto.py]-[main]: [ ZF-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQZFDB.SNP
+[2017-03-31 10:14:34,612]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:14:34,612]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Ended]  3parauto.py 3par list                <<<#####
+[2017-03-31 10:14:34,613]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:14:34,613]-[DEBUG]-[logger.py]-[function_timer]: Total time running [main]: 0.00727987289429 seconds
+[2017-03-31 10:15:39,006]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:15:39,006]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Begin]  3parauto.py 3par start QS-3PAR-SAMICA QS-3PAR-CMSB                <<<#####
+[2017-03-31 10:15:39,006]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:15:39,016]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-SAMICA@10.253.105.21----------------------
+[2017-03-31 10:15:39,399]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:15:39,400]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-SAMICA@10.253.105.21 ...
+[2017-03-31 10:15:39,400]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICA.snp
+[2017-03-31 10:18:59,721]-[ERROR]-[service.py]-[start_service]: 
+[2017-03-31 10:18:59,721]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:18:59,722]-[INFO]-[service.py]-[start_service]: Common start QS-3PAR-SAMICA@10.253.105.21 [SUCCESS]...
+[2017-03-31 10:18:59,731]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.105.21.
+[2017-03-31 10:18:59,731]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-SAMICA@10.253.105.21----------------------
+[2017-03-31 10:18:59,732]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 200.71585393 seconds
+[2017-03-31 10:18:59,732]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-3PAR-SAMICA@10.253.105.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:18:59,733]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 200.716746092 seconds
+[2017-03-31 10:18:59,734]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-SAMICB@10.253.105.21----------------------
+[2017-03-31 10:19:00,114]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:19:00,115]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-SAMICB@10.253.105.21 ...
+[2017-03-31 10:19:00,115]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICB.snp
+[2017-03-31 10:19:26,453]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-SAMICB@10.253.105.21----------------------
+[2017-03-31 10:19:26,454]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:19:26,454]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Ended]  3parauto.py 3par start QS-3PAR-SAMICA QS-3PAR-CMSB                <<<#####
+[2017-03-31 10:19:26,455]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:29,473]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:29,473]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Begin]  3parauto.py 3par list                <<<#####
+[2017-03-31 10:20:29,473]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:29,477]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-SAMICA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICA.snp
+[2017-03-31 10:20:29,477]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-SAMICB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICB.snp
+[2017-03-31 10:20:29,477]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-IGA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGA.snp
+[2017-03-31 10:20:29,477]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-IGB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGB.snp
+[2017-03-31 10:20:29,477]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMS ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMS.SNP
+[2017-03-31 10:20:29,478]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMSA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSA.snp
+[2017-03-31 10:20:29,478]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMSB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSB.snp
+[2017-03-31 10:20:29,478]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQQSDB.SNP
+[2017-03-31 10:20:29,478]-[INFO]-[3parauto.py]-[main]: [ IB-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIBDB.SNP
+[2017-03-31 10:20:29,478]-[INFO]-[3parauto.py]-[main]: [ NDP-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQNDPDB.SNP
+[2017-03-31 10:20:29,479]-[INFO]-[3parauto.py]-[main]: [ HG-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.shsqhdb.SNP
+[2017-03-31 10:20:29,479]-[INFO]-[3parauto.py]-[main]: [ RA-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQRADB.SNP
+[2017-03-31 10:20:29,479]-[INFO]-[3parauto.py]-[main]: [ ZF-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQZFDB.SNP
+[2017-03-31 10:20:29,479]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:29,479]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Ended]  3parauto.py 3par list                <<<#####
+[2017-03-31 10:20:29,480]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:29,480]-[DEBUG]-[logger.py]-[function_timer]: Total time running [main]: 0.00703811645508 seconds
+[2017-03-31 10:20:33,084]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:33,085]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Begin]  3parauto.py 3par start QS-3PAR-SAMICA QS-3PAR-CMSB                <<<#####
+[2017-03-31 10:20:33,085]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:33,094]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-SAMICA@10.253.105.21----------------------
+[2017-03-31 10:20:33,456]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:20:33,456]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-SAMICA@10.253.105.21 ...
+[2017-03-31 10:20:33,457]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICA.snp
+[2017-03-31 10:20:35,435]-[INFO]-[service.py]-[start_service]: 
+                        ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICA.snp
+                        exit
+                        Last login: Fri Mar 31 09:38:17 2017 from 10.117.2.2
+[devops@SHSXAUTOMATIC ~]$ 
+[devops@SHSXAUTOMATIC ~]$                         ssh -l 3paradm 10.253.108.9 up datevv -f set:SET.AIX.SHSQSAMICA.snp
+Updating VVs AIX.SHSQSAMICA.1.snp AIX.SHSQSAMICA.2.snp
+[devops@SHSXAUTOMATIC ~]$                         exit
+logout
+
+[2017-03-31 10:20:35,436]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:20:35,436]-[INFO]-[service.py]-[start_service]: Common start QS-3PAR-SAMICA@10.253.105.21 [SUCCESS]...
+[2017-03-31 10:20:35,500]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.105.21.
+[2017-03-31 10:20:35,501]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-SAMICA@10.253.105.21----------------------
+[2017-03-31 10:20:35,501]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 2.40692400932 seconds
+[2017-03-31 10:20:35,502]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-3PAR-SAMICA@10.253.105.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:20:35,502]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 2.40770196915 seconds
+[2017-03-31 10:20:35,502]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-SAMICB@10.253.105.21----------------------
+[2017-03-31 10:20:35,853]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:20:35,853]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-SAMICB@10.253.105.21 ...
+[2017-03-31 10:20:35,854]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICB.snp
+[2017-03-31 10:20:37,981]-[INFO]-[service.py]-[start_service]: 
+                        ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICB.snp
+                        exit
+                        Last login: Fri Mar 31 10:20:33 2017 from 10.253.105.21
+[devops@SHSXAUTOMATIC ~]$ 
+[devops@SHSXAUTOMATIC ~]$                         ssh -l 3paradm 10.253.108.9 up datevv -f set:SET.AIX.SHSQSAMICB.snp
+Updating VVs AIX.SHSQSAMICB.1.snp AIX.SHSQSAMICB.2.snp
+[devops@SHSXAUTOMATIC ~]$                         exit
+logout
+
+[2017-03-31 10:20:37,982]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:20:37,982]-[INFO]-[service.py]-[start_service]: Common start QS-3PAR-SAMICB@10.253.105.21 [SUCCESS]...
+[2017-03-31 10:20:38,097]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.105.21.
+[2017-03-31 10:20:38,097]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-SAMICB@10.253.105.21----------------------
+[2017-03-31 10:20:38,098]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 2.59576320648 seconds
+[2017-03-31 10:20:38,098]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-3PAR-SAMICB@10.253.105.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:20:38,099]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 2.59667897224 seconds
+[2017-03-31 10:20:38,099]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-IGA@10.253.105.21----------------------
+[2017-03-31 10:20:38,453]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:20:38,454]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-IGA@10.253.105.21 ...
+[2017-03-31 10:20:38,454]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGA.snp
+[2017-03-31 10:20:43,582]-[INFO]-[service.py]-[start_service]: 
+                        ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGA.snp
+                        exit
+                        Last login: Fri Mar 31 10:20:36 2017 from 10.253.105.21
+[devops@SHSXAUTOMATIC ~]$ 
+[devops@SHSXAUTOMATIC ~]$                         ssh -l 3paradm 10.253.108.9 up datevv -f set:SET.AIX.SHSQIGA.snp
+Updating VVs AIX.SHSQIGA.1.snp AIX.SHSQIGA.2.snp AIX.SHSQIGA.3.snp AIX.SHSQIGA.4.snp AIX.SHSQIGA.5.snp
+[devops@SHSXAUTOMATIC ~]$                         exit
+logout
+
+[2017-03-31 10:20:43,583]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:20:43,583]-[INFO]-[service.py]-[start_service]: Common start QS-3PAR-IGA@10.253.105.21 [SUCCESS]...
+[2017-03-31 10:20:43,697]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.105.21.
+[2017-03-31 10:20:43,698]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-IGA@10.253.105.21----------------------
+[2017-03-31 10:20:43,698]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 5.59884309769 seconds
+[2017-03-31 10:20:43,699]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-3PAR-IGA@10.253.105.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:20:43,699]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 5.59969806671 seconds
+[2017-03-31 10:20:43,699]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-IGB@10.253.105.21----------------------
+[2017-03-31 10:20:44,045]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:20:44,045]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-IGB@10.253.105.21 ...
+[2017-03-31 10:20:44,045]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGB.snp
+[2017-03-31 10:20:49,279]-[INFO]-[service.py]-[start_service]: 
+                        ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGB.snp
+                        exit
+                        Last login: Fri Mar 31 10:20:38 2017 from 10.253.105.21
+[devops@SHSXAUTOMATIC ~]$ 
+[devops@SHSXAUTOMATIC ~]$                         ssh -l 3paradm 10.253.108.9 up datevv -f set:SET.AIX.SHSQIGB.snp
+Updating VVs AIX.SHSQIGB.1.snp AIX.SHSQIGB.2.snp AIX.SHSQIGB.3.snp AIX.SHSQIGB.4.snp AIX.SHSQIGB.5.snp
+[devops@SHSXAUTOMATIC ~]$                         exit
+logout
+
+[2017-03-31 10:20:49,280]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:20:49,280]-[INFO]-[service.py]-[start_service]: Common start QS-3PAR-IGB@10.253.105.21 [SUCCESS]...
+[2017-03-31 10:20:49,395]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.105.21.
+[2017-03-31 10:20:49,395]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-IGB@10.253.105.21----------------------
+[2017-03-31 10:20:49,396]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 5.69648909569 seconds
+[2017-03-31 10:20:49,396]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-3PAR-IGB@10.253.105.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:20:49,396]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 5.6972951889 seconds
+[2017-03-31 10:20:49,397]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-CMS@10.253.105.21----------------------
+[2017-03-31 10:20:49,748]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:20:49,749]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-CMS@10.253.105.21 ...
+[2017-03-31 10:20:49,749]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMS.SNP
+[2017-03-31 10:20:51,621]-[INFO]-[service.py]-[start_service]: 
+                        ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMS.SNP
+                        exit
+                        Last login: Fri Mar 31 10:20:44 2017 from 10.253.105.21
+[devops@SHSXAUTOMATIC ~]$ 
+[devops@SHSXAUTOMATIC ~]$                         ssh -l 3paradm 10.253.108.9 up datevv -f set:SET.AIX.SHSQCMS.SNP
+Updating VVs AIX.SHSQCMS.1.SNP
+[devops@SHSXAUTOMATIC ~]$                         exit
+logout
+
+[2017-03-31 10:20:51,622]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:20:51,622]-[INFO]-[service.py]-[start_service]: Common start QS-3PAR-CMS@10.253.105.21 [SUCCESS]...
+[2017-03-31 10:20:51,737]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.105.21.
+[2017-03-31 10:20:51,737]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-CMS@10.253.105.21----------------------
+[2017-03-31 10:20:51,738]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 2.3406419754 seconds
+[2017-03-31 10:20:51,738]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-3PAR-CMS@10.253.105.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:20:51,738]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 2.34147119522 seconds
+[2017-03-31 10:20:51,739]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-CMSA@10.253.105.21----------------------
+[2017-03-31 10:20:52,102]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:20:52,103]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-CMSA@10.253.105.21 ...
+[2017-03-31 10:20:52,103]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSA.snp
+[2017-03-31 10:20:54,947]-[INFO]-[service.py]-[start_service]: 
+                        ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSA.snp
+                        exit
+                        Last login: Fri Mar 31 10:20:49 2017 from 10.253.105.21
+[devops@SHSXAUTOMATIC ~]$ 
+[devops@SHSXAUTOMATIC ~]$                         ssh -l 3paradm 10.253.108.9 up datevv -f set:SET.AIX.SHSQCMSA.snp
+Updating VVs AIX.SHSQCMSA.1.snp AIX.SHSQCMSA.2.snp AIX.SHSQCMSA.3.snp
+[devops@SHSXAUTOMATIC ~]$                         exit
+logout
+
+[2017-03-31 10:20:54,948]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:20:54,948]-[INFO]-[service.py]-[start_service]: Common start QS-3PAR-CMSA@10.253.105.21 [SUCCESS]...
+[2017-03-31 10:20:55,063]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.105.21.
+[2017-03-31 10:20:55,063]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-CMSA@10.253.105.21----------------------
+[2017-03-31 10:20:55,064]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 3.32492995262 seconds
+[2017-03-31 10:20:55,064]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-3PAR-CMSA@10.253.105.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:20:55,064]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 3.3257689476 seconds
+[2017-03-31 10:20:55,065]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-3PAR-CMSB@10.253.105.21----------------------
+[2017-03-31 10:20:55,417]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.105.21.
+[2017-03-31 10:20:55,417]-[INFO]-[service.py]-[start_service]: Common Starting QS-3PAR-CMSB@10.253.105.21 ...
+[2017-03-31 10:20:55,417]-[DEBUG]-[service.py]-[start_service]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSB.snp
+[2017-03-31 10:20:58,144]-[INFO]-[service.py]-[start_service]: 
+                        ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSB.snp
+                        exit
+                        Last login: Fri Mar 31 10:20:52 2017 from 10.253.105.21
+[devops@SHSXAUTOMATIC ~]$ 
+[devops@SHSXAUTOMATIC ~]$                         ssh -l 3paradm 10.253.108.9 up datevv -f set:SET.AIX.SHSQCMSB.snp
+Updating VVs AIX.SHSQCMSB.1.snp AIX.SHSQCMSB.2.snp AIX.SHSQCMSB.3.snp
+[devops@SHSXAUTOMATIC ~]$                         exit
+logout
+
+[2017-03-31 10:20:58,145]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:20:58,145]-[INFO]-[service.py]-[start_service]: Common start QS-3PAR-CMSB@10.253.105.21 [SUCCESS]...
+[2017-03-31 10:20:58,209]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.105.21.
+[2017-03-31 10:20:58,209]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-3PAR-CMSB@10.253.105.21----------------------
+[2017-03-31 10:20:58,209]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 3.14460206032 seconds
+[2017-03-31 10:20:58,210]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-3PAR-CMSB@10.253.105.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:20:58,210]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 3.14508700371 seconds
+[2017-03-31 10:20:58,210]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:58,210]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Ended]  3parauto.py 3par start QS-3PAR-SAMICA QS-3PAR-CMSB                <<<#####
+[2017-03-31 10:20:58,210]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:20:58,211]-[DEBUG]-[logger.py]-[function_timer]: Total time running [main]: 25.1262722015 seconds
+[2017-03-31 10:32:32,655]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:32:32,655]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Begin]  3parauto.py 3par list                <<<#####
+[2017-03-31 10:32:32,656]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:32:32,659]-[INFO]-[3parauto.py]-[main]: [ QS-IGA-RENAME ]: perl -pi -e 's/SHSQIGA/SHSXIGA/g' /home/ccfccb/IG/.igtuxenv; perl -pi -e 's/SHSQIGA/SHSXIGA/g' /home/ccfccb/IG/config/ubbconfig
+[2017-03-31 10:32:32,660]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-SAMICA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICA.snp
+[2017-03-31 10:32:32,660]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-SAMICB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICB.snp
+[2017-03-31 10:32:32,660]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-IGA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGA.snp
+[2017-03-31 10:32:32,660]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-IGB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGB.snp
+[2017-03-31 10:32:32,660]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMS ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMS.SNP
+[2017-03-31 10:32:32,661]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMSA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSA.snp
+[2017-03-31 10:32:32,661]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMSB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSB.snp
+[2017-03-31 10:32:32,661]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQQSDB.SNP
+[2017-03-31 10:32:32,661]-[INFO]-[3parauto.py]-[main]: [ IB-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIBDB.SNP
+[2017-03-31 10:32:32,661]-[INFO]-[3parauto.py]-[main]: [ NDP-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQNDPDB.SNP
+[2017-03-31 10:32:32,661]-[INFO]-[3parauto.py]-[main]: [ HG-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.shsqhdb.SNP
+[2017-03-31 10:32:32,662]-[INFO]-[3parauto.py]-[main]: [ RA-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQRADB.SNP
+[2017-03-31 10:32:32,662]-[INFO]-[3parauto.py]-[main]: [ ZF-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQZFDB.SNP
+[2017-03-31 10:32:32,662]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:32:32,662]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Ended]  3parauto.py 3par list                <<<#####
+[2017-03-31 10:32:32,662]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:32:32,663]-[DEBUG]-[logger.py]-[function_timer]: Total time running [main]: 0.00740885734558 seconds
+[2017-03-31 10:32:46,711]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:32:46,712]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Begin]  3parauto.py 3par start QS-IGA-RENAME                <<<#####
+[2017-03-31 10:32:46,712]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:32:46,719]-[DEBUG]-[service.py]-[start_service]: ----------------------[Begin] QS-IGA-RENAME@10.253.2.21----------------------
+[2017-03-31 10:32:47,202]-[DEBUG]-[service.py]-[conn]: Connected to 10.253.2.21.
+[2017-03-31 10:32:47,202]-[INFO]-[service.py]-[start_service]: Common Starting QS-IGA-RENAME@10.253.2.21 ...
+[2017-03-31 10:32:47,203]-[DEBUG]-[service.py]-[start_service]: perl -pi -e 's/SHSQIGA/SHSXIGA/g' /home/ccfccb/IG/.igtuxenv; perl -pi -e 's/SHSQIGA/SHSXIGA/g' /home/ccfccb/IG/config/ubbconfig
+[2017-03-31 10:32:47,366]-[INFO]-[service.py]-[start_service]: Last unsuccessful login: Thu Mar 16 13:30:00 CST 2017 on ssh from 10.253.105.101
+Last login: Fri Mar 31 10:30:53 CST 2017 on /dev/pts/0 from 10.117.2.2
+******************************************************************
+*                                                                *
+*               Warning !!! Warning !!! Warning!!!               *
+*                                                                *
+*        Non-authorized users, please leave immediately!         *
+*                                                                *
+******************************************************************
+
+                        perl -pi -e 's/SHSQIGA/SHSXIGA/g' /home/ccfccb/IG/.igtuxenv; perl -pi -e 's/SHSQIGA/SHSXIGA/g' /home/ccfccb/IG/config/ubbconfig
+                        exit
+                        [igrun@SHSXIGA]:/home/ccfccb/IG>
+[igrun@SHSXIGA]:/home/ccfccb/IG>                        perl -pi -e 's/SHSQIG perl -pi -e 's/SHSQIGA                      </SHSXIGA/g' /home/ccfc/SHSXIGA/g' /home/ccfcc                      b/IG/.igtuxenv; perl -b/IG/.igtuxenv; perl -p                      i -e 's/SHSQIGA/SHSXIGi -e 's/SHSQIGA/SHSXIGA                      /g' /home/ccfccb/IG/co/g' /home/ccfccb/IG/con                      fig/ubbconfig
+[igrun@SHSXIGA]:/home/ccfccb/IG>                        exit
+
+[2017-03-31 10:32:47,367]-[INFO]-[service.py]-[start_service]: Check is passed, service start considered success.
+[2017-03-31 10:32:47,367]-[INFO]-[service.py]-[start_service]: Common start QS-IGA-RENAME@10.253.2.21 [SUCCESS]...
+[2017-03-31 10:32:47,482]-[DEBUG]-[service.py]-[release]: Disconnected from 10.253.2.21.
+[2017-03-31 10:32:47,482]-[DEBUG]-[service.py]-[start_service]: ----------------------[Ended] QS-IGA-RENAME@10.253.2.21----------------------
+[2017-03-31 10:32:47,483]-[DEBUG]-[logger.py]-[function_timer]: Total time running [start_service]: 0.763803005219 seconds
+[2017-03-31 10:32:47,483]-[INFO]-[3parauto.py]-[dostart]: [------------ QS-IGA-RENAME@10.253.2.21 start [success]. Going to next service >>>>>>>>>>]
+[2017-03-31 10:32:47,483]-[DEBUG]-[logger.py]-[function_timer]: Total time running [dostart]: 0.764657974243 seconds
+[2017-03-31 10:32:47,484]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:32:47,484]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Ended]  3parauto.py 3par start QS-IGA-RENAME                <<<#####
+[2017-03-31 10:32:47,484]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-03-31 10:32:47,485]-[DEBUG]-[logger.py]-[function_timer]: Total time running [main]: 0.77330493927 seconds
+[2017-04-20 10:33:38,225]-[ERROR]-[3parauto.py]-[main]: This program should only be run by devops!
+[2017-04-20 10:33:41,630]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-04-20 10:33:41,630]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Begin]  3parauto.py 3par list                <<<#####
+[2017-04-20 10:33:41,630]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-04-20 10:33:41,633]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-SAMICA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICA.snp
+[2017-04-20 10:33:41,634]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-SAMICB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQSAMICB.snp
+[2017-04-20 10:33:41,634]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-IGA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGA.snp
+[2017-04-20 10:33:41,634]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-IGB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIGB.snp
+[2017-04-20 10:33:41,634]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMS ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMS.SNP
+[2017-04-20 10:33:41,634]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMSA ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSA.snp
+[2017-04-20 10:33:41,635]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR-CMSB ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQCMSB.snp
+[2017-04-20 10:33:41,635]-[INFO]-[3parauto.py]-[main]: [ QS-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQQSDB.SNP
+[2017-04-20 10:33:41,635]-[INFO]-[3parauto.py]-[main]: [ IB-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQIBDB.SNP
+[2017-04-20 10:33:41,635]-[INFO]-[3parauto.py]-[main]: [ NDP-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQNDPDB.SNP
+[2017-04-20 10:33:41,635]-[INFO]-[3parauto.py]-[main]: [ HG-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.shsqhdb.SNP
+[2017-04-20 10:33:41,636]-[INFO]-[3parauto.py]-[main]: [ RA-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQRADB.SNP
+[2017-04-20 10:33:41,636]-[INFO]-[3parauto.py]-[main]: [ ZF-3PAR ]: ssh -l 3paradm 10.253.108.9 updatevv -f set:SET.AIX.SHSQZFDB.SNP
+[2017-04-20 10:33:41,636]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-04-20 10:33:41,636]-[INFO]-[3parauto.py]-[main]: #####>>>                                 [Ended]  3parauto.py 3par list                <<<#####
+[2017-04-20 10:33:41,636]-[INFO]-[3parauto.py]-[main]: ############################################################################################################
+[2017-04-20 10:33:41,636]-[DEBUG]-[logger.py]-[function_timer]: Total time running [main]: 0.00689387321472 seconds
